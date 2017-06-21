@@ -1,2 +1,0 @@
-# zipkin-sample
-zipkin-sample
